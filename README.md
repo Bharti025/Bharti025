@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi, I'm Pratyaksh Aggarwal
 <img width="100" height="100" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 </h1>
   
 <h3 font-size="20" align="center">A Computer Science and Engineering Undergrad.</h3>
