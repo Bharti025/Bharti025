@@ -117,9 +117,9 @@
 
 ----
   
-<h3 align="center">Reach me</h3>
+<h3 align="center">Connect with me<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif"/>
+<p align="center"></h3>
 
-<p align="center">
   <a  href="https://www.linkedin.com/in/pratyaksh-aggarwal-8792821b7/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratyaksh"/>
   </a>
