@@ -1,11 +1,13 @@
+<h1 align="center"><b>Hi , I'm Bharti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bharti+O+Wadhwa..&hearts;++;Self-taught+Front-End+Developer,;ECE+Final Year +Student,;CTF+Newbie,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+<br>
 
-<h1 align="center">Hi, I'm Pratyaksh Aggarwal
-<img width="100" height="100" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
-  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-</h1>
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
 <h3 font-size="20" align="center">A Computer Science and Engineering Undergrad.</h3>
   
@@ -40,9 +42,7 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  </a>
+  
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </a>
@@ -58,17 +58,12 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
-  <a href="https://bulma.io/documentation/elements/tag/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="bulma" />
-  </a>
+ 
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-<a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
-      alt="django"/> 
-  </a>
+
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -107,12 +102,8 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudio IDE"/> 
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" />
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
+
+ 
 </p>
 
 ----
