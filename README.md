@@ -14,20 +14,38 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
   
-<h3 font-size="20" align="center">A Computer Science and Engineering Undergrad.</h3>
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+- 💻 I’m currently a **Full Stack Developer**
+
+- 🤝 I’m looking to collaborate on **Frontend Projects**
+
+- 📝 Always eager to be an **Active Leaner/ Researcher**
+
+- ✍️ I find delight in crafting **Technical Writing**
+
+- 💬 Ask me about **Full Stack Development**
+
+- ⚡ Fun fact: **I am a Master of Ctrl-C + Ctrl-V 😆**
+
+- 📫 You can shoot me an email at **bhartiwadhwa025@gmail.com**!
+
+  I'll try to respond as soon as I can.
+
+- 📄 Please have a look at my **[Resume]()** for more details about me.
+
+  I'm open to feedback and suggestions!!
   
-- 🌱 I’m currently learning *Full-Stack Development* 
-- 👯 I’m looking to collaborate on *Web Development and ML Projects*
-
-- 🤝 I’m looking for help with *Data Structures and Algorithms*
-
-- 💬 Ask me about *Algorithms*
-
-- ⚡ Fun fact *I am a master of Ctrl-C + Ctrl-V 😆*
 
 ---
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
+
+---
+
+---
+
+<h2 align="center"><u><b>Knowledge Base  </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
  <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -116,15 +134,14 @@
 </p>
 
 ----
-  
-<h3 align="center">Connect with me<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif"/>
-<p align="center"></h3>
+  <h3 align="center"><b>Let's Connect!! </b><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="75"></h1>
 
-  <a  href="https://www.linkedin.com/in/pratyaksh-aggarwal-8792821b7/" target="_blank">
+<p align="center">
+  <a  href="" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratyaksh"/>
   </a>
-  <a href="mailto:pratyaksh2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pratyaksh"/>
+  <a href="mailto:bhartiwadhwa025@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bharti"/>
   </a>
 </p>
 
