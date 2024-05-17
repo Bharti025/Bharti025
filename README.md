@@ -145,13 +145,12 @@
 
 ----
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PratyakshAgg&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyakshAgg&theme=tokyonight" alt="streak-stats" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshAgg&theme=tokyonight&layout=compact&hide=ejs,html" alt="top-langs" height="200px" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharti025&show_icons=true&locale=en&layout=compact" alt="bharti025" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharti025&show_icons=true&locale=en" alt="bharti025" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharti025&" alt="bharti025" /></p>
+
 
 
 Credits: [Bharti](https://github.com/Aashvitt)
