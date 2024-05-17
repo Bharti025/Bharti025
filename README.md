@@ -22,8 +22,6 @@
 
 - 📝 Always eager to be an **Active Leaner/ Researcher**
 
-- ✍️ I find delight in crafting **Technical Writing**
-
 - 💬 Ask me about **Full Stack Development**
 
 - ⚡ Fun fact: **I am a Master of Ctrl-C + Ctrl-V 😆**
