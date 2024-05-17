@@ -30,7 +30,7 @@
 
   I'll try to respond as soon as I can.
 
-- 📄 Please have a look at my **[Resume]()** for more details about me.
+- 📄 Please have a look at my **[Resume](https://drive.google.com/file/d/1OpU8GIXA-nv_-pXaQdB-I3nfYA4tV3ey/view?usp=drivesdk)** for more details about me.
 
   I'm open to feedback and suggestions!!
   
