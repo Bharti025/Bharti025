@@ -154,7 +154,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshAgg&theme=tokyonight&layout=compact&hide=ejs,html" alt="top-langs" height="200px" />
 </div>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=PratyakshAgg&theme=react-dark" alt="PratyakshAgg" /></p>
 
 
 Credits: [Bharti](https://github.com/Aashvitt)
